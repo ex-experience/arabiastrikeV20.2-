@@ -1,0 +1,4 @@
+ARABIA STRIKE
+Version: 20.3.0-mobile-ux-master
+Entry point: index.html
+Build step: None

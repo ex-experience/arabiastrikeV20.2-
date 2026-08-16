@@ -1,0 +1,35 @@
+ARABIA STRIKE V20.3 — QA REPORT
+================================
+
+doctype: PASS
+single_script: PASS
+loader: PASS
+hero_poster_embedded: PASS
+story_panel: PASS
+help_panel: PASS
+story_button: PASS
+help_button: PASS
+orientation_hint: PASS
+visual_viewport: PASS
+orientation_css: PASS
+fire: PASS
+jump: PASS
+bomb: PASS
+use: PASS
+ready: PASS
+marker: PASS
+Classic JavaScript parse: PASS
+Runtime:
+{
+  "ready": true,
+  "loader": true,
+  "portrait": true,
+  "landscape": true,
+  "story": true,
+  "help": true,
+  "running": true,
+  "density": true,
+  "fire": true
+}
+
+Real-device mobile spacing: requires confirmation from the user's iPhone/Android screenshot.
